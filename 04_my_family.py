@@ -24,4 +24,4 @@ sum=0
 for i in my_family_height:
     sum+=i[1]
 
-print('Общий рост моей семьи',sum,'см')
+print('Общий рост моей семьи -',sum,'см')
